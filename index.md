@@ -5,4 +5,5 @@ By Jay Mehta
 ## Posts
 
 - [Welcome](welcome)
-- [AI Fundamentals](ai-fundamentals)
+- [AI Fundamentals Recap](ai-fundamentals)
+- [AI Agents — A Builder's Guide to Anatomy, Components, and Patterns](ai-agents)
