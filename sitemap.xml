@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://jay-g-mehta.github.io/</loc>
+  </url>
+  <url>
+    <loc>https://jay-g-mehta.github.io/welcome</loc>
+  </url>
+  <url>
+    <loc>https://jay-g-mehta.github.io/ai-fundamentals</loc>
+  </url>
+  <url>
+    <loc>https://jay-g-mehta.github.io/ai-agents</loc>
+  </url>
+  <url>
+    <loc>https://jay-g-mehta.github.io/llm-anatomy-components-concepts</loc>
+  </url>
+  <url>
+    <loc>https://jay-g-mehta.github.io/agentic-system-with-memory-and-datastores</loc>
+  </url>
+  <url>
+    <loc>https://jay-g-mehta.github.io/llm-reasoning-agentic-systems</loc>
+  </url>
+</urlset>
