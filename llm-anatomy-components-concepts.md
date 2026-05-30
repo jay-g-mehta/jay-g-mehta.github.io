@@ -1,3 +1,8 @@
+---
+title: "LLM Anatomy & Concepts for Agentic System Builders"
+description: "Applied AI deep dive into LLM internals — tokenization, embeddings, parameters, quantization, fine-tuning, and LoRA — with practical takeaways for building applied agentic AI systems."
+---
+
 # LLM Anatomy & Concepts for Agentic System Builders
 
 > When you build AI agents or applications on top of LLMs, you're making decisions at every step: which model to use, how much context you can fit, how to retrieve relevant knowledge, and how to deploy affordably. These concepts are the ones that drive those decisions. Understanding them turns you from someone who *uses* LLMs into someone who *architects* with them.

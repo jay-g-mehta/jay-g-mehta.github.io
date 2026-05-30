@@ -1,3 +1,8 @@
+---
+title: "AI Blog | Jay Mehta"
+description: "Applied AI and applied agentic AI — AI fundamentals, LLM internals, agentic system design, and practical patterns for building intelligent systems — by Jay Mehta, Senior Software Engineer."
+---
+
 # AI Blog
 
 This blog is where I write about AI fundamentals, LLM internals, agentic system design, and practical patterns for building intelligent systems.

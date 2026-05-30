@@ -1,3 +1,8 @@
+---
+title: "AI Fundamentals"
+description: "Applied AI fundamentals — quick reference to key AI terms, machine learning, deep learning, NLP, GenAI, how they connect, and core LLM concepts including tokenization, embeddings, and optimization techniques."
+---
+
 # AI Fundamentals
 
 A quick reference to understand the key AI terms, how they connect, and how they're applied.

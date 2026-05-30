@@ -1,3 +1,8 @@
+---
+title: "AI Agents — A Builder's Guide to Anatomy, Components, and Patterns"
+description: "Applied agentic AI — understand what AI agents are, how they differ from chatbots, and the key architectural patterns including multi-agent systems, SOPs, and workflows."
+---
+
 # AI Agents — A Builder's Guide to Anatomy, Components, and Patterns
 
 > In Applied AI, agents are the successor to chatbots. Instead of just answering questions, they reason, plan, and take action. This post covers the key terms you'll encounter in the agentic AI space.

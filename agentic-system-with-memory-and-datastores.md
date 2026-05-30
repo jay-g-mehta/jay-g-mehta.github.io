@@ -1,3 +1,8 @@
+---
+title: "Building Agentic Systems with Memory, RAG, Knowledge Base, Vector DB, Knowledge Graph & Context Stores"
+description: "Applied agentic AI — step-by-step guide to building AI agents with RAG, vector databases, knowledge graphs, and memory systems, from stateless LLM to full agentic architecture."
+---
+
 # Building Agentic Systems with Memory, RAG, Knowledge Base, Vector DB, Knowledge Graph & Context Stores
 
 > This post explains how to build AI agents integrated with different types of memory and databases, touching when to use what and how.

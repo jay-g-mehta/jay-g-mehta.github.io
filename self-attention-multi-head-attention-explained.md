@@ -1,3 +1,8 @@
+---
+title: "Self-Attention & Multi-Head Attention Explained: Why Attention Is All You Need"
+description: "Applied AI — ground-up walkthrough of self-attention in Transformers, Q, K, V matrices, scaled dot-product attention, and multi-head attention with step-by-step examples."
+---
+
 # Self-Attention & Multi-Head Attention Explained: Why Attention Is All You Need
 
 > A ground-up walkthrough of how self-attention works in Transformers — from token embeddings to multi-head attention. Understanding this mechanism helps applied AI engineers make better decisions about prompt design, context management, retrieval strategies, and when to trust (or not trust) model outputs.

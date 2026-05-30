@@ -4,9 +4,6 @@
     <loc>https://jay-g-mehta.github.io/</loc>
   </url>
   <url>
-    <loc>https://jay-g-mehta.github.io/welcome</loc>
-  </url>
-  <url>
     <loc>https://jay-g-mehta.github.io/ai-fundamentals</loc>
   </url>
   <url>
@@ -19,6 +16,6 @@
     <loc>https://jay-g-mehta.github.io/agentic-system-with-memory-and-datastores</loc>
   </url>
   <url>
-    <loc>https://jay-g-mehta.github.io/llm-reasoning-agentic-systems</loc>
+    <loc>https://jay-g-mehta.github.io/self-attention-multi-head-attention-explained</loc>
   </url>
 </urlset>
